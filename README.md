@@ -20,7 +20,7 @@ The final system was designed to support tree-level visualization, feature inspe
 
 ## Workflow Diagram
 
-![Orchard WebGIS Workflow](assets/orchard_webgis_workflow_one_line.png)
+![Orchard WebGIS Workflow](assets/orchard_webgis_workflow.png)
 
 ---
 
