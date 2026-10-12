@@ -18,6 +18,12 @@ The final system was designed to support tree-level visualization, feature inspe
 
 ---
 
+## Workflow Diagram
+
+![Orchard WebGIS Workflow](assets/orchard_webgis_workflow_one_line.png)
+
+---
+
 ## Main Objectives
 
 - Generate and evaluate tree-crown spatial units from LiDAR-derived orchard data
