@@ -24,6 +24,14 @@ The final system was designed to support tree-level visualization, feature inspe
 
 ---
 
+## WebGIS Interface
+
+![Orchard WebGIS Interface](assets/webgis_interface.png)
+
+The WebGIS interface displays the published tree-crown polygons and clustered apple-observation points in a browser-based environment.
+
+---
+
 ## Main Objectives
 
 - Generate and evaluate tree-crown spatial units from LiDAR-derived orchard data
