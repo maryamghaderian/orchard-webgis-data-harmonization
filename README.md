@@ -1,9 +1,9 @@
 # Orchard WebGIS: Data Harmonization to Publication
 
-This repository presents the portfolio version of my Master’s thesis project:
+This repository presents the portfolio version of my Master's thesis project:
 
 **Design and Implementation of an Orchard WebGIS: Data Harmonization to Publication**  
-Master’s Degree in Agritech Engineering  
+Master's Degree in Agritech Engineering  
 Politecnico di Torino, 2026
 
 ---
@@ -20,13 +20,13 @@ The final system was designed to support tree-level visualization, feature inspe
 
 ## Workflow Diagram
 
-![Orchard WebGIS Workflow](assets/orchard_webgis_workflow.png)
+![Orchard WebGIS Workflow](assets/REPLACE_WITH_YOUR_WORKFLOW_DIAGRAM_FILENAME.png)
 
 ---
 
 ## WebGIS Interface
 
-![Orchard WebGIS Interface](assets/webgis_interface.png)
+![Orchard WebGIS Interface](assets/REPLACE_WITH_YOUR_WEBGIS_SCREENSHOT_FILENAME.png)
 
 The WebGIS interface displays the published tree-crown polygons and clustered apple-observation points in a browser-based environment.
 
@@ -72,6 +72,8 @@ The implemented workflow includes the following stages:
 ## Key Results
 
 - A validated crown layer containing **56 tree-crown polygons** was prepared for WebGIS publication.
+- Four tree-crown delineation methods were compared against the 56 reference crowns; the best method reached an **F1-score of 0.865**.
+- The source LiDAR dataset contained **12.3 million points**.
 - Apple-observation records were harmonized into **103 clustered observation points**.
 - The crown polygons and apple-observation points were linked through a spatial relationship using `polygon_id`.
 - The harmonized layers were stored in PostGIS and published through GeoServer.
@@ -112,6 +114,6 @@ The implemented WebGIS was developed and tested as a local prototype.
 ## Author
 
 **Maryam Ghaderian**  
-Master’s Graduate in Agritech Engineering  
+Master's Graduate in Agritech Engineering  
 Politecnico di Torino  
 GIS | WebGIS | Spatial Data Harmonization | PostGIS | GeoServer | Leaflet
