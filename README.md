@@ -1,3 +1,4 @@
+
 # Orchard WebGIS: Data Harmonization to Publication
 
 This repository presents the portfolio version of my Master's thesis project:
@@ -20,13 +21,13 @@ The final system was designed to support tree-level visualization, feature inspe
 
 ## Workflow Diagram
 
-![Orchard WebGIS Workflow](assets/REPLACE_WITH_YOUR_WORKFLOW_DIAGRAM_FILENAME.png)
+![Orchard WebGIS Workflow](assets/orchard_webgis_workflow.png)
 
 ---
 
 ## WebGIS Interface
 
-![Orchard WebGIS Interface](assets/REPLACE_WITH_YOUR_WEBGIS_SCREENSHOT_FILENAME.png)
+![Orchard WebGIS Interface](assets/webgis_interface.png)
 
 The WebGIS interface displays the published tree-crown polygons and clustered apple-observation points in a browser-based environment.
 
